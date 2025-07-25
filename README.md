@@ -21,7 +21,7 @@ We process video input using:
 ---
 
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots 
 
 <img width="1597" height="900" alt="image" src="https://github.com/user-attachments/assets/7bd22f72-371b-4d9f-88f2-1449be3215ef" />
 
