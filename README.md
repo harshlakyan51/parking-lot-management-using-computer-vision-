@@ -86,15 +86,6 @@ The prediction is used to color each bounding box:
 
 ---
 
-### 3. Run the Application
-
-```bash
-python main.py
-```
-
-To quit the application, press `q` in the video window.
-
----
 
 ## 🛠 How it Works – Step by Step
 
