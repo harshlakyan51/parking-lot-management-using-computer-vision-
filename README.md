@@ -57,7 +57,7 @@ We process video input using:
 ```
 ├── main.py                   # Main application logic
 ├── util.py                   # Utility functions (model loading, classification, box merging)
-├── model.p                   # Pre-trained classifier model (SVM or similar)
+├── model.p                   # Pre-trained classifier model 
 ├── mask_1920_1080.png        # Binary mask to isolate parking spots
 ├── samples/
 │   └── parking_1920_1080_loop.mp4   # Sample loop video input
